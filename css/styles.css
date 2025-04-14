@@ -55,6 +55,7 @@ a {
    display: flex;
    justify-content: space-between;
    align-items: center;
+   width: 1158px;
 }
 
 .header-section-list {
