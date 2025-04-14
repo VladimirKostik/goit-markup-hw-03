@@ -128,10 +128,11 @@ a {
 }
 
 /* main content */
-
+/*section 1*/
 .hero-image {
    background: #2e2f42;
    padding: 188px 0;
+
 }
 
 .title {
@@ -170,7 +171,11 @@ a {
    background-color: #404BBF;
 }
 
-/*section 1*/
+/*section 2*/
+
+.principal {
+   padding: 120px 0 120px 0;
+}
 
 .visually-hidden {
    font-weight: 700;
@@ -224,10 +229,11 @@ a {
    color: #434455;
 }
 
-/*section 2*/
+/*section 3*/
 
 .team {
    background: #f4f4fd;
+   padding: 120px 0 120px;
 }
 
 .team-title {
@@ -274,7 +280,11 @@ a {
    text-align: center;
 }
 
-/*section 3*/
+/*section 4*/
+
+.portfolio {
+   padding: 120px 0 120px;
+}
 
 .portfolio-title {
    font-weight: 700;
