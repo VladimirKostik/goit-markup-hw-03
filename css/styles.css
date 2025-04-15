@@ -35,7 +35,7 @@ a {
    max-width: 1158px;
    padding-left: 15px;
    padding-right: 15px;
-   margin: 0 auto;
+ 
    
 }
 
@@ -55,6 +55,7 @@ a {
    display: flex;
    justify-content: space-between;
    align-items: center;
+   margin: 0 auto;
 
 }
 
